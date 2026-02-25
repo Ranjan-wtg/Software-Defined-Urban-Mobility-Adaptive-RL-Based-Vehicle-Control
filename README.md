@@ -11,7 +11,7 @@ To ensure project dominance, we've implemented high-impact research deliverables
 - Explainable AI (XAI): Context-aware decision logic visualizing "Why" the agent chooses specific behaviors.
 - ECU-Ready Deployment: Core intelligence exported to **ONNX format** for immediate integration into real-time embedded hardware.
 - Comprehensive Ablation: Proven **1.9x efficiency Gain** over industry-standard Eco/Sport modes.
-- ** 1000-Episode Stress Test**: Validated robustness across extreme long-tail scenarios (steep hills, max payloads, dense congestion).
+- 1000-Episode Stress Test: Validated robustness across extreme long-tail scenarios (steep hills, max payloads, dense congestion).
   - Plots: High-DPI (300) research plots including **Reward DNA Decomposition** and **Pareto Frontiers**.
 
 ##  Repository Structure
